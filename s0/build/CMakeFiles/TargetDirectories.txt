@@ -1,0 +1,3 @@
+/home/bb/111/src/s0/build/CMakeFiles/my_student_app.dir
+/home/bb/111/src/s0/build/CMakeFiles/edit_cache.dir
+/home/bb/111/src/s0/build/CMakeFiles/rebuild_cache.dir
